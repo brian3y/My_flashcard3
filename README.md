@@ -10,7 +10,8 @@ a flashcard can created and used by user
 ### App Walk-though
 
 
-https://user-images.githubusercontent.com/90811892/160220868-6ca44ee2-b630-4095-af65-e1c0cf165ebd.gif
+
+![codepath7](https://user-images.githubusercontent.com/90811892/160220927-623080d0-7375-4690-8265-45aa38c92e06.gif)
 
 
 
