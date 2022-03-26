@@ -10,8 +10,9 @@ flashcard
 a flascard display multiple cards
 
 ### App Walk-though
-![codepath8](https://user-images.githubusercontent.com/90811892/160226439-96e2b85c-5819-47b2-81e1-e9a2eac517fd.gif)
 
+
+![codepath9](https://user-images.githubusercontent.com/90811892/160250386-9e486958-10cd-4dcc-98b6-49ddd1242151.gif)
 
 
 
