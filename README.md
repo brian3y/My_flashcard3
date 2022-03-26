@@ -1,8 +1,32 @@
 # My_flashcard3
-## NAME_OF_YOUR_APP_HERE
 
 flashcard
 
+## Lab 2
+
+### App Description
+a flashcard can created and used by user 
+
+### App Walk-though
+
+
+https://user-images.githubusercontent.com/90811892/160220868-6ca44ee2-b630-4095-af65-e1c0cf165ebd.gif
+
+
+
+## Required
+- [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
+- [x] User will see the card they just created on the main screen when they press the 'Save Button'
+- [x] Push your progress to GitHub!
+
+## Optional
+- [ ] User can edit a card
+- [ ] An error message is shown if the user doesn't enter both a Question and an Answer
+- [ ] A notification is shown if the card was created successfully
+- [ ] User can also enter multiple choice answers when creating a card
+- [ ] App is further styled and customized!
 ## Lab 1
 
 ### App Description
